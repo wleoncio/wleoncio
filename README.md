@@ -12,7 +12,7 @@ I'm a Statistician who loves computing, so here are a few dashboards that cater 
 
 ![Waldir's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wleoncio&langs_count=8&layout=compact&theme=dark&hide_title=true&hide_border=true)
 
-### By time dedicated
+### By dedicated time over the last 14 days
 
 ![Waldir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wleoncio&theme=dark&hide_border=true&hide_title=true&v=2)
 
