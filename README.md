@@ -14,7 +14,7 @@ I'm a Statistician who loves computing, so here are a few dashboards that cater 
 
 ### By dedicated time recently
 
-![Waldir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wleoncio&theme=dark&hide_border=true&hide_title=true&v=2)
+![Waldir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wleoncio&theme=dark&hide_border=true&hide_title=true&v=2&layout=compact)
 
 ## My GitHub stats
 
