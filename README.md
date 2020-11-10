@@ -16,6 +16,8 @@ I'm a Statistician who loves computing, so here are a few dashboards that cater 
 
 ![Waldir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wleoncio&theme=dark&hide_border=true&hide_title=true&v=2&layout=compact)
 
+<!-- ![](https://wakatime.com/share/@wleoncio/d0a37c37-1d2f-4bba-8d38-d45235229c57.svg) -->
+
 ## My GitHub stats
 
 ![Waldir's GitHub stats](https://github-readme-stats.vercel.app/api?username=wleoncio&count_private=true&show_icons=true&theme=dark&hide_title=true&hide_border=true)
