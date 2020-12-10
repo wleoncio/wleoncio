@@ -8,7 +8,7 @@ I'm a Statistician who loves computing, so here are a few dashboards that cater 
 
 ## Most used languages
 
-### By committed code (private work, only)
+### By committed code (personal repositories, only)
 
 ![Waldir's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wleoncio&langs_count=8&layout=compact&theme=dark&hide_title=true&hide_border=true)
 
