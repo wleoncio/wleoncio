@@ -8,13 +8,14 @@ I'm a Statistician who loves computing, so here are a few dashboards that cater 
 
 ## Most used languages
 
-### By committed code
+### By committed code (private work, only)
 
 ![Waldir's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wleoncio&langs_count=8&layout=compact&theme=dark&hide_title=true&hide_border=true)
 
 <!-- Python was at 15,99% on 2020-11-30. I wonder if/when that changes for code committed to ocbe-uio -->
+<!-- TODO: Add nordic-rse and ocbe-uio contributions as soon as https://github.com/anuraghazra/github-readme-stats/issues/1 is closed -->
 
-### By dedicated time recently
+### By dedicated time over the last 7 days
 
 ![Waldir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wleoncio&theme=dark&hide_border=true&hide_title=true&v=2&layout=compact)
 
