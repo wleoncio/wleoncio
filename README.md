@@ -10,7 +10,7 @@ I'm a Statistician who loves computing, so here are a few dashboards that cater 
 
 ### By committed code (personal repositories, only)
 
-![Waldir's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wleoncio&langs_count=8&layout=compact&theme=default&hide_title=true&hide_border=true&bg_color=ffffff00)
+![Waldir's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wleoncio&langs_count=8&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=666666)
 
 <!-- Python was at 15,99% on 2020-11-30. I wonder if/when that changes for code committed to ocbe-uio -->
 <!-- TODO: Add nordic-rse and ocbe-uio contributions as soon as https://github.com/anuraghazra/github-readme-stats/issues/1 is closed -->
