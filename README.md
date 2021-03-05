@@ -4,7 +4,7 @@
 
 # Stats
 
-I'm a Statistician who loves computing, so here are a few dashboards that cater to both of these things (courtesy of [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)).
+Am I a Statistician who loves computing or a computer guy with an education in Statistics? Anyway, here are a few dashboards that cater to both of these things (courtesy of [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)).
 
 ## Most used languages
 
