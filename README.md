@@ -14,7 +14,7 @@ Am I a Statistician who loves computing or a computer guy with an education in S
 
 ### Overall committed code
 
-![Waldir's Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wleoncio&langs_count=10&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=666666&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=public-slides,trajpy,bayesynergy,nord-star48w,nord-star24w,no-covid-19,nor-solidarity,elfi,HCV_project,synergysplines,BayesSUR,LocalLowRankLearning,CellMAPtracer,2022_bioinformatics_workshop,MADMMplasso,pyPhenoPop,PhenoPop,Ten-CRAOS,Cancer_simulator,EnrichIntersect,neoletexe_scRNA_analysis,discovering-host-viral-modulators,HN5000,binstrvar&hide=jupyter%20notebook,javascript,c,matlab,perl,vim%20script)
+![Waldir's Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wleoncio&langs_count=10&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=666666&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=trajpy,bayesynergy,nord-star48w,nord-star24w,no-covid-19,nor-solidarity,elfi,HCV_project,synergysplines,BayesSUR,LocalLowRankLearning,CellMAPtracer,2022_bioinformatics_workshop,MADMMplasso,pyPhenoPop,PhenoPop,Ten-CRAOS,Cancer_simulator,EnrichIntersect,neoletexe_scRNA_analysis,discovering-host-viral-modulators,HN5000,binstrvar&hide=jupyter%20notebook,javascript,c,matlab,perl,vim%20script,html)
 
 <!--
 ## Lines of code added over the last 1 year
