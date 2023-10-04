@@ -10,7 +10,7 @@ Am I a Statistician who loves computing or a computer guy with an education in S
 
 ### Dedicated coding time over the last 7 days
 
-![Waldir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wleoncio&hide_border=true&hide_title=true&v=2&layout=compact&bg_color=ffffff00&text_color=666666&hide=ini)
+![Waldir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wleoncio&hide_border=true&hide_title=true&v=2&layout=compact&bg_color=ffffff00&text_color=666666&hide=ini,ActionScript%203,GDScript3,GDScript,S)
 
 ### Overall committed code
 
