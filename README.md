@@ -6,25 +6,6 @@
 
 Am I a Statistician who loves computing or a computer guy with an education in Statistics? Anyway, here are a few dashboards that cater to both of these things (courtesy of [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)).
 
-## Most used languages
+## Most used languages these past 365 days
 
-### Dedicated coding time over the last 7 days
-
-![Waldir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wleoncio&hide_border=true&hide_title=true&v=2&layout=compact&bg_color=ffffff00&text_color=666666&hide=ini,ActionScript%203,GDScript3,GDScript,S)
-
-### Overall committed code
-
-![Waldir's Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=wleoncio&langs_count=10&layout=compact&hide_title=true&hide_border=true&bg_color=ffffff00&text_color=666666&role=OWNER,ORGANIZATION_MEMBER&exclude_repo=trajpy,bayesynergy,nord-star48w,nord-star24w,no-covid-19,nor-solidarity,elfi,HCV_project,synergysplines,BayesSUR,LocalLowRankLearning,CellMAPtracer,2022_bioinformatics_workshop,MADMMplasso,pyPhenoPop,PhenoPop,Ten-CRAOS,Cancer_simulator,EnrichIntersect,neoletexe_scRNA_analysis,discovering-host-viral-modulators,HN5000,binstrvar&hide=jupyter%20notebook,javascript,c,matlab,perl,vim%20script,html)
-
-<!--
-## Lines of code added over the last 1 year
-
-### Per language
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/wleoncio/langs?time_range=one_year&include_private=True&compact=True)](https://githubtrends.io)
-
-### Per repository
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/wleoncio/repos?time_range=one_year&include_private=True)](https://githubtrends.io)
-
--->
+![]( https://wakatime.com/share/@wleoncio/cea1d205-3a41-4a1a-9a24-7c60e50b88d2.png)
