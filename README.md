@@ -4,6 +4,6 @@
 
 # Most used languages
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@wleoncio/4e9eab99-a918-4bcc-b0f1-e2a2dd76b047.png" height=350/></a><a href="https://wakatime.com"><img src="https://wakatime.com/share/@wleoncio/7ef50a25-b3d0-41bd-9220-93574902a805.png" height=350/></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@wleoncio/4e9eab99-a918-4bcc-b0f1-e2a2dd76b047.png" height=300/></a><a href="https://wakatime.com"><img src="https://wakatime.com/share/@wleoncio/7ef50a25-b3d0-41bd-9220-93574902a805.png" height=300/></a>
 
 (yes, I know, pie charts are evil, but I wanna save space)
