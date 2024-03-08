@@ -4,11 +4,4 @@
 
 # Most used languages
 
-## Over the last 30 days
-
-![Top languages over the last 30 days](https://wakatime.com/share/@wleoncio/e3bf3476-b667-4eb5-9b52-1dc0b9cf2be2.png)
-
-## Over the last year
-
-![Top languages over the last year]( https://wakatime.com/share/@wleoncio/cea1d205-3a41-4a1a-9a24-7c60e50b88d2.png)
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@wleoncio/4e9eab99-a918-4bcc-b0f1-e2a2dd76b047.png" height=350/></a><a href="https://wakatime.com"><img src="https://wakatime.com/share/@wleoncio/7ef50a25-b3d0-41bd-9220-93574902a805.png" height=350/></a>
