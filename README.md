@@ -1,6 +1,6 @@
 # Hi, there! :wave:
 
-~~Get off my lawn!~~ Welcome to my profile page! Feel free to browse, use and contribute to my repositories. Please also check out [my University centre's page](https://github.com/ocbe-uio/), where most of my GitHub efforts currently go. You can also find more info on my career path on my [LinkedIn profile](https://www.linkedin.com/in/waldir-leoncio-40899618b/).
+~~Get off my lawn!~~ Welcome to my profile page! Feel free to browse, use and contribute to my repositories. Please also check out [my University centre's page](https://github.com/ocbe-uio/), where most of my GitHub efforts currently go.
 
 Here's what I've been coding on over these past 365 days:
 
