@@ -2,9 +2,9 @@
 
 ~~Get off my lawn!~~ Welcome to my profile page! Feel free to browse, use and contribute to my repositories. Please also check out [my University centre's page](https://github.com/ocbe-uio/), where most of my GitHub efforts currently go.
 
-Here's what I've been coding on over these past 365 days:
+Here's what I've been coding on over these past 365 days (ooooooooooooooh, pie chaaaaaaaaaaaaarts, baaaaaaaaaaaad):
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@wleoncio/99dc3baf-0333-4dd7-a643-4e5c0e89819f.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@wleoncio/2129c8dc-7495-4731-9c2f-04c86b0826a7.png" /></a>
 
 <!--
 30 days
